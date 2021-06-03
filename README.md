@@ -76,9 +76,9 @@ GITHUB_TOKEN=generated_token_acess
 👤 **Gabriel Almir**
 
 * Website: http://avlye.me
-* Twitter: [@AvlyeV](https://twitter.com/AvlyeV)
+* Twitter: [@AvlyeJS](https://twitter.com/AvlyeJS)
 * Github: [@Avlye](https://github.com/Avlye)
-* LinkedIn: [@Avlye](https://linkedin.com/in/Avlye)
+* LinkedIn: [@avlyejs](https://linkedin.com/in/avlyejs)
 
 ## 🤝 Contributing
 
