@@ -7,8 +7,8 @@
   <a href="https://opensource.org/licenses/MIT" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://twitter.com/AvlyeV" target="_blank">
-    <img alt="Twitter: AvlyeV" src="https://img.shields.io/twitter/follow/AvlyeV.svg?style=social" />
+  <a href="https://twitter.com/avlyejs" target="_blank">
+    <img alt="Twitter: AvlyeJS" src="https://img.shields.io/twitter/follow/AvlyeJS.svg?style=social" />
   </a>
 </p>
 
